@@ -2,7 +2,7 @@
 The model is designed for checking the loan eligibility of customer.
 """
 __author__ = "Anshita Saxena"
-__copyright__ = "(c) Copyright IBM 2019"
+__copyright__ = "(c) Copyright IBM 2020"
 __contributors__ = "Ryan P Chiang, Ramesh Sigamani, Debabrata Ghosh"
 __credits__ = ["IBM CAD-DICE Team"]
 __email__ = "anshita333saxena@gmail.com"
