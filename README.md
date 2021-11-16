@@ -54,5 +54,5 @@ Implementations are not kept in this open-source GitHub to maintain confidential
 1. Jupyter Notebook: Detailed Implementation with steps and outputs are written in Notebook *loan_model.ipynb*
 2. PySpark Code: Code is implemented in *spark_hive_model.py* and variables with hive store configuration settings are provided in the code.
 
-Accuracy from this Model:
+**Accuracy from this Model (PySpark):**
 ![PySpark Model Screenshot](https://github.com/Anshita1Saxena/loan-model/blob/main/demo-image/PySpark%20Model%20Screenshot.JPG)
